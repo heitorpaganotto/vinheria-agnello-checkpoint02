@@ -32,18 +32,20 @@ O sistema opera via `prompt()` e `alert()`, permitindo o cadastro de diversos vi
 <pre>  📁 Estrutura do Projeto
 
   vinheria-agnello-checkpoint02/ 
- 
- ├── index.html ├── README.md 
- 
- └── src/ 
-        ├── css/ │ 
-            └── style.css
 
-        ├── js/ │ 
-            └── script.js
+    ├── index.html 
+ 
+    ├── README.md 
+ 
+    └── src/ 
+            ├── css/ │ 
+                └── style.css
 
-        └── assets/ 
-            └── imgs/  
+            ├── js/ │ 
+                └── script.js
+
+            └── assets/ 
+                └── imgs/  
             
 </pre>
 
