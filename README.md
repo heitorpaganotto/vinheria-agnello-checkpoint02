@@ -61,7 +61,7 @@ O sistema opera via `prompt()` e `alert()`, permitindo o cadastro de diversos vi
 
 ## 🌐 Links
 
-- 🔗 [Repositório no GitHub](https://github.com/heitorpaganotto/vinheria-agnello-checkpoint02.git)  
+- 🔗 [Repositório no GitHub](https://github.com/heitorpaganotto/vinheria-agnello-checkpoint02)  
 - 🌍 [Página publicada via GitHub Pages](https://heitorpaganotto.github.io/vinheria-agnello-checkpoint02/)
 
 ---
